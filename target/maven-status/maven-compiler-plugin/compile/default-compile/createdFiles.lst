@@ -1,2 +1,4 @@
 hello/HelloController.class
+hello/bean/Greeting.class
 hello/Application.class
+hello/controller/HelloWorldController.class

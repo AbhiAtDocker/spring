@@ -1,2 +1,4 @@
-/projects/gs-spring-boot/initial/src/main/java/hello/HelloController.java
-/projects/gs-spring-boot/initial/src/main/java/hello/Application.java
+/projects/spring/src/main/java/hello/bean/Greeting.java
+/projects/spring/src/main/java/hello/HelloController.java
+/projects/spring/src/main/java/hello/controller/HelloWorldController.java
+/projects/spring/src/main/java/hello/Application.java
